@@ -22,23 +22,29 @@ Welcome to my GitHub profile!
 
 ## 📫 Connect With Me
 
-<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" style="border-radius: 12px; vertical-align: middle;"/>  
-[**cedricnuwagaba23@gmail.com**](mailto:cedricnuwagaba23@gmail.com)
+<p>
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" width="36" style="vertical-align: middle; border-radius: 10px;" />
+  &nbsp;&nbsp;
+  <a href="mailto:cedricnuwagaba23@gmail.com"><strong>cedricnuwagaba23@gmail.com</strong></a>
+</p>
 
-<br>
+<p>
+  <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="36" style="vertical-align: middle; border-radius: 10px;" />
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/cedric_nuwagab"><strong>@cedric_nuwagab</strong></a>
+</p>
 
-<img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="40" style="border-radius: 12px; vertical-align: middle;"/>  
-[**@cedric_nuwagab**](https://twitter.com/cedric_nuwagab)
+<p>
+  <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="36" style="vertical-align: middle; border-radius: 10px;" />
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/cedric_nuwagaba/"><strong>@cedric_nuwagaba</strong></a>
+</p>
 
-<br>
-
-<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="40" style="border-radius: 12px; vertical-align: middle;"/>  
-[**@cedric_nuwagaba**](https://www.instagram.com/cedric_nuwagaba/)
-
-<br>
-
-<img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="40" style="border-radius: 12px; vertical-align: middle;"/>  
-[**cedric nuwagaba**](https://www.facebook.com/cedric.nuwagaba)
+<p>
+  <img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="36" style="vertical-align: middle; border-radius: 10px;" />
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/cedric.nuwagaba"><strong>cedric nuwagaba</strong></a>
+</p>
 
 ---
 
