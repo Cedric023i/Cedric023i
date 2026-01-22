@@ -23,17 +23,30 @@ Welcome to my GitHub profile!
 ## 📫 Connect With Me
 
 <a href="mailto:cedricnuwagaba23@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" style="border-radius: 12px;"/>
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" style="border-radius: 12px; vertical-align: middle;"/>
 </a>
+**cedricnuwagaba23@gmail.com**
+
+<br>
+
 <a href="https://twitter.com/cedric_nuwagab" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="40" style="border-radius: 12px;"/>
+  <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="40" style="border-radius: 12px; vertical-align: middle;"/>
 </a>
+**@cedric_nuwagab**
+
+<br>
+
 <a href="https://www.instagram.com/cedric_nuwagaba/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="40" style="border-radius: 12px;"/>
+  <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="40" style="border-radius: 12px; vertical-align: middle;"/>
 </a>
+**@cedric_nuwagaba**
+
+<br>
+
 <a href="https://www.facebook.com/cedric.nuwagaba" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="40" style="border-radius: 12px;"/>
+  <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="40" style="border-radius: 12px; vertical-align: middle;"/>
 </a>
+**cedric nuwagaba**
 
 ---
 
