@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Cedric
 
-<!--
-**Cedric023i/Cedric023i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Tech enthusiast exploring software and systems
+- 🖥️ Interested in Windows, networking, and automation
+- 🌍 Curious about how modern apps and infrastructure work
+- 📚 Continuously learning and improving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Interests
+- Command line (CMD & PowerShell)
+- Basic scripting & automation
+- Computer networking fundamentals
+- Git & GitHub workflows
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cedric023i&show_icons=true&theme=dark)
+
+## 🔥 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric023i&layout=compact&theme=dark)
+
+## 📫 Contact
+- GitHub: https://github.com/Cedric023i
+
+---
+⭐ Thanks for stopping by!
